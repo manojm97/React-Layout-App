@@ -1,0 +1,29 @@
+.header-text {
+  text-align: left;
+  color: white;
+  font-weight: bold;
+  font-family: 'Google Sans Regular';
+  /* background-color: red; */
+}
+
+.header {
+  background-color: black;
+  position: fixed;
+  height: 100px;
+  width: 100%;
+  top: 0;
+  color: white;
+  font-size: 20px;
+}
+.timer {
+  /* background-color: blue; */
+  display: flex;
+  justify-content: center;
+}
+
+.key {
+  /* background-color: yellow; */
+  color: orange;
+  display: flex;
+  justify-content: right;
+}

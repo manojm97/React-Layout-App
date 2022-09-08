@@ -1,0 +1,17 @@
+.footer-text {
+  background-color: transparent;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Google Sans Regular';
+}
+
+.footer {
+  background-color: black;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  width: 100%;
+  bottom: 0;
+}

@@ -1,0 +1,26 @@
+.Bio {
+  display: flex;
+}
+
+.page {
+  align-self: flex-start;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  position: absolute;
+  font-weight: 550;
+  font-size: ;
+  padding-top: 3%;
+  padding-left: 5%;
+}
+
+.btn {
+  align-self: flex-end;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 5%;
+  padding-left: 5%;
+}
